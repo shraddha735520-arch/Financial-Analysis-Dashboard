@@ -3,6 +3,15 @@
 ## Overview
 
 This project presents an interactive Financial Analytics Dashboard developed using Power BI to analyze transaction data, customer behavior, tax contributions, and financial performance metrics.
+## Dashboard Preview
+
+### Overview Dashboard
+
+![Overview Dashboard](Overview_Dashboard.png)
+
+### Transactions Dashboard
+
+![Transactions Dashboard](Transactions_Dashboard.png)
 
 ## Tools & Technologies
 
